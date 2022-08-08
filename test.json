@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-08-08T07:21:53+00:00",
+  "lastUpdated": "2022-08-08T07:30:00+00:00",
   "providerName": "outlaw",
   "language": "en-US",
   "movies": [
@@ -33,23 +33,6 @@
           "idType": "IMDB"
         }
       ]
-    }
-  ],
-  "shortFormVideos": [
-    {
-      "id": "fe6e6fef5d6442a997a8647946128ed8",
-      "title": "test promo",
-      "content": {
-        "dateAdded": "2022-08-08T18:03:08+00:00"
-      },
-      "thumbnail": "https://github.com/peaktv/roku/blob/main/eba%20thumbnail%20wide.jpg",
-      "shortDescription": "Short description of the content",
-      "releaseDate": "2022-08-08",
-      "longDescription": "Long description of the content",
-      "rating": {
-        "rating": "PG",
-        "ratingSource": "MPAA"
-      }
     }
   ]
 }
