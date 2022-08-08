@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-08-08T06:12:55+00:00",
+  "lastUpdated": "2022-08-08T07:21:53+00:00",
   "providerName": "outlaw",
   "language": "en-US",
   "movies": [
@@ -16,15 +16,23 @@
           }
         ]
       },
-      "genres": [],
+      "genres": [
+        "sports"
+      ],
       "thumbnail": "https://",
       "releaseDate": "2022-08-08",
       "shortDescription": "test",
       "longDescription": "Long description of the content",
       "rating": {
-        "rating": "UNRATED",
+        "rating": "PG13",
         "ratingSource": "MPAA"
-      }
+      },
+      "externalIds": [
+        {
+          "id": "New external ID(1)",
+          "idType": "IMDB"
+        }
+      ]
     }
   ],
   "shortFormVideos": [
@@ -39,7 +47,7 @@
       "releaseDate": "2022-08-08",
       "longDescription": "Long description of the content",
       "rating": {
-        "rating": "UNRATED",
+        "rating": "PG",
         "ratingSource": "MPAA"
       }
     }
