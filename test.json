@@ -1,0 +1,30 @@
+{
+  "lastUpdated": "2022-08-08T05:49:01+00:00",
+  "providerName": "outlaw",
+  "language": "en-US",
+  "movies": [
+    {
+      "id": "fc9e16908cea4090ba11c3d63bf672c7",
+      "title": "test promo",
+      "content": {
+        "dateAdded": "2022-08-08T17:35:55+00:00",
+        "videos": [
+          {
+            "url": "https://github.com/peaktv/roku/blob/main/Elite%20teasser.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      },
+      "genres": [],
+      "thumbnail": "https://",
+      "releaseDate": "2022-08-08",
+      "shortDescription": "test",
+      "longDescription": "Long description of the content",
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    }
+  ]
+}
