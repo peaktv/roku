@@ -1,0 +1,33 @@
+{
+  "lastUpdated": "2022-08-09T10:07:32+00:00",
+  "providerName": "Outlawnetwork",
+  "language": "en-US",
+  "movies": [
+    {
+      "id": "11348242795041e982536ad69c834d24",
+      "title": "EBA Promo",
+      "content": {
+        "dateAdded": "2022-08-09T10:00:01+00:00",
+        "videos": [
+          {
+            "url": "https://github.com/peaktv/roku/blob/main/Elite%20teasser.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 180
+      },
+      "genres": [
+        "sports"
+      ],
+      "thumbnail": "https://github.com/peaktv/roku/blob/main/eba%20thumbnail.jpg",
+      "releaseDate": "2022-08-09",
+      "shortDescription": "EBA Promo",
+      "longDescription": "elite bull riders promo",
+      "rating": {
+        "rating": "PG13",
+        "ratingSource": "MPAA"
+      }
+    }
+  ]
+}
